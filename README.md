@@ -1,8 +1,16 @@
+# Checklist:
+
+- [x] Travel Blog
+- [ ] JS Questions
+
+
+
 # Timescale frontend interview assignment
 
 There are two parts to this assignment which should take around an hour to complete.
 The first part you will build out a travel blog profile page. The second part 
 you will need to manipulate data in arrays and objects in javascript.
+
 
 ## Travel blog
 
