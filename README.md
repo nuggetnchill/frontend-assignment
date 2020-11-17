@@ -1,16 +1,13 @@
 # Checklist:
 
 - [x] Travel Blog
-- [ ] JS Questions
-
-
+- [x] JS Questions
 
 # Timescale frontend interview assignment
 
 There are two parts to this assignment which should take around an hour to complete.
-The first part you will build out a travel blog profile page. The second part 
+The first part you will build out a travel blog profile page. The second part
 you will need to manipulate data in arrays and objects in javascript.
-
 
 ## Travel blog
 
@@ -18,6 +15,7 @@ You will need to style a basic profile page for a travel blog. You will need to 
 and style it. The page is using `create-react-app` to run and compile the page
 
 ### Setup
+
 ```
 cd travel-blog
 yarn install
@@ -33,8 +31,7 @@ There are a few restrictions in how you should be building the page:
 - Styling variables are found at the top of the scss file (/travel-blog/src/App.scss)
 - Use css grid and flexbox to achieve the final layout
 - A responsive version is encouraged but not required (If you do a responsive version, you can just hide the navigation
- to make it easier)
-
+  to make it easier)
 
 ### Finished result
 
@@ -42,7 +39,7 @@ There are a few restrictions in how you should be building the page:
 
 ## Javascript questions
 
-There are 4 functions that you will need to complete to modify the super hero data provided in 
+There are 4 functions that you will need to complete to modify the super hero data provided in
 `javascript-questions/super-heroes.json`
 
 ### Setup
